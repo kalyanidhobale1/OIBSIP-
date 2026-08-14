@@ -35,5 +35,12 @@ The dataset contains 1,000 retail transactions with 9 columns:
 - Seaborn
 - Jupyter Notebook
 
+###Business Recommendation
+1. Focus on high-performing months: Increase promotions and inventory during months with higher sales to maximize revenue.
+   
+2. Target the most active customer groups: Create targeted offers and marketing campaigns for the age group and gender that contribute the most sales.
+
+3. Focus on high-revenue categories: Give more promotional attention and inventory priority to the product category generating the highest revenue.
+
 ### Key Insight
 The analysis helps understand sales trends, customer demographics, and category-wise revenue performance.
